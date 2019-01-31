@@ -1,0 +1,7 @@
+http://100count.net/faucet/network/mine/doge/faucet.php?address=DTRLkmAC1jB6jfGzWZGgXQn8pY42wJwHPR&currency=DOGE&key=e74c16fe76615b2f16293bd84aaa8a2042b095b4&t=1549028858
+faucet.dutchycorp.space/auto1min/faucet.php?address=DTRLkmAC1jB6jfGzWZGgXQn8pY42wJwHPR&currency=DOGE&action=&miner=on&key=34e3fdf3e4c4c8304170f175904e95e7
+deadsats.com/autofaucet/faucet.php?r=DCZ3mEfvpEhkbxoZenQC8eZSEywUtSxZa7&rc=DOGE&address=DTRLkmAC1jB6jfGzWZGgXQn8pY42wJwHPR&currency=DOGE&key=54e7fd4b8a1a63bb436b11bb8db0e48a
+deadsats.com/autofaucet/faucet.php?r=DCZ3mEfvpEhkbxoZenQC8eZSEywUtSxZa7&rc=DOGE&address=PRWryrRfz14xoyzgDWvahwdjwD7bNUhwFD&currency=POT&miner=on&key=a87cf4611803304ee3f983a784346c90
+auto4.eaglezz.com/faucet.php?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC&address=DTRLkmAC1jB6jfGzWZGgXQn8pY42wJwHPR&currency=DOGE&key=c8fc667898375494288f488386fcc4b8
+auto.eaglezz.com/faucet.php?address=DTRLkmAC1jB6jfGzWZGgXQn8pY42wJwHPR&currency=DOGE&key=c8fc667898375494288f488386fcc4b8
+faucet.dutchycorp.space/auto2min/faucet.php?address=DTRLkmAC1jB6jfGzWZGgXQn8pY42wJwHPR&currency=DOGE&action=&miner=on&key=34e3fdf3e4c4c8304170f175904e95e7
